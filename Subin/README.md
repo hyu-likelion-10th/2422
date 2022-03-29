@@ -18,4 +18,4 @@
 <a href="https://www.instagram.com/su_bin4813"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://github.com/Stephanie9349"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:supiao0123@hanyang.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://grafolio.naver.com/supiao9349"><img src="https://img.shields.io/static/v1?label=Grafolio&message=Grafolio&color=2DB400" /></a>
+<a href="https://grafolio.naver.com/supiao9349"><img src="https://img.shields.io/badge/-Grafolio-2DB400" /></a>
