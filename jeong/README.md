@@ -1,2 +1,7 @@
-# 저는 윤정입니다.
-## 안녕하세요
+# About Me
+---------
+#### Name : 윤정
+#### School : Hanyang University
+#### Major : Computer Software Engineering
+#### Age : 24
+#### MBTI : ESFP
