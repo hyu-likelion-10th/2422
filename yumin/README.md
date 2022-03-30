@@ -10,6 +10,16 @@
     <i><b>Team</b></i> 2422
 </p>
 
+<details align="center">
+    <summary align="center">더 많은 TMI가 보고 싶다면...👈</summary>
+    <p align="center">
+        <i><b>Age</b></i> 22(01)<br>
+        <i><b>Education</b></i> 명덕외국어고등학교 ➪ 한양대학교<br>
+        <i><b>Language</b></i> 한국어 + English + (다 까먹은) français🇫🇷<br>
+        <i><b>Multiple majors</b></i> 컴퓨터소프트웨어학부 + 빅데이터융합전공<br>
+    </p>
+</details>
+
 <br>
 
 <h3 align="center"><i>Contact me🤙</i></h3>
