@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap");
+
+* {
+    font-family: Montserrat;
+}
+
+.namecard{
+    width: 1920px;
+    height: 1080px;
+    background-color: white;
+}
+
+.image{
+    width: 472px;
+    height: 630px;
+    margin: 30px;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
