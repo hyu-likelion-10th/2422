@@ -19,7 +19,7 @@ html {
   position: relative;
   overflow: hidden;
 	background-color: #112d4e;
-	border-radius: 8px;
+	border-radius: 15px;
 	width: 60vw;
 	height: 33.75vw; /* 16:9 비율 */
 }
@@ -43,7 +43,6 @@ p {
 }
 
 .transform {
-  transform: skew(30deg, -30deg);
   font-size: 1.5vw;
   border-radius: 30px;
   padding: 0 10px;
@@ -107,7 +106,7 @@ p {
 
 @keyframes third {
   from {
-    transform: rotate(-30deg) translate(1000px, 10px);
+    transform: rotate(-30deg) translate(5000px, 10px);
   }
   to {
     transform: rotate(-30deg) translate(1rem, 1rem);
@@ -116,7 +115,7 @@ p {
 
 @keyframes fourth {
   from {
-    transform: rotate(-30deg) translate(-1000px, 10px);
+    transform: rotate(-30deg) translate(-5000px, 10px);
   }
   to {
     transform: rotate(-30deg) translate(1rem, 1rem);
@@ -125,7 +124,7 @@ p {
 
 @keyframes fifth {
   from {
-    transform: rotate(-30deg) translate(1000px, 10px);
+    transform: rotate(-30deg) translate(5000px, 10px);
   }
   to {
     transform: rotate(-30deg) translate(1rem, 1rem);
